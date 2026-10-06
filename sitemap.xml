@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kaidoki-lab.github.io/kaidoki/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://kaidoki-lab.github.io/kaidoki/about.html</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://kaidoki-lab.github.io/kaidoki/articles/kanidokoro_10001780.html</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://kaidoki-lab.github.io/kaidoki/articles/hseason_10000260.html</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://kaidoki-lab.github.io/kaidoki/articles/kyunan_10000248.html</loc>
+    <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://kaidoki-lab.github.io/kaidoki/articles/next-online_10000180.html</loc>
